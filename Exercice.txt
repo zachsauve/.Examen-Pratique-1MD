@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Je démontre mes compétences en GIT
+=======
+Je démontre mes compétences en GIT
+>>>>>>> Modifications
